@@ -1,2 +1,2 @@
-# verilog-cache-simulation
+# Verilog cache simulation
 LRU cache simulation
